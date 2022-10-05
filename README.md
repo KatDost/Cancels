@@ -16,13 +16,13 @@ Overall, we believe that Cancels can support researchers in their experimentatio
 All code and results supporting our claims made in the paper are available here.
 
 # Citation
-If you want to use this implementation or cite Imitate in your publication, please cite the following ICDM paper:
+If you want to use this implementation or cite Imitate in your publication, please cite the following [paper](https://doi.org/10.21203/rs.3.rs-2133331/v1):
 ```
 Katharina Dost, Zac Pullar-Strecker, Liam Brydon, Kunyang Zhang, Jasmin Hafner, Patricia Riddle, and Jörg Wicker.
 "Combatting Over-Specialization Bias in Growing Chemical Databases."
-In: TBA
+05 October 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2133331/v1]
 ```
-
+<!---
 Bibtex:
 ```
 @INPROCEEDINGS {Dost2022,
@@ -31,6 +31,7 @@ title = {Combatting Over-Specialization Bias in Growing Chemical Databases},
 year = {2022},
 }
 ```
+--->
 
 # How to use Cancels
 Cancels is integrated in the PyPI package <a rel="imitatebias" href="https://pypi.org/project/imitatebias/">imitatebias</a> which can be installed with
